@@ -1,0 +1,19 @@
+//    @GetMapping("/orders")
+//    public ResponseEntity<List<?>> AllOrders()
+//    {
+//        List<?> orders =ordersService.retrieveAllOrders();
+//        return ResponseEntity.ok().body(orders);
+//    }
+//
+//    @GetMapping("/customers/customerid")
+//    public ResponseEntity<List<?>> CustomerOrders(@RequestParam long customerid) {
+//        List<?> orders =ordersService.retrieveAllOrders(customerid);
+//        return ResponseEntity.ok().body(orders);
+//    }
+//
+//    @GetMapping("/customers/customerid/ordernumber")
+//    public ResponseEntity<Optional<?>> OneOrder(@RequestParam int ordernumber,@RequestParam long customerid ) {
+//        Optional<?> order=ordersService.retrieveOneOrder(ordernumber);
+//        return ResponseEntity.ok().body(order);
+//
+//    }

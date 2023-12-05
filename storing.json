@@ -1,0 +1,30 @@
+{
+  "data" : {
+    "customers" : [ {
+      "customerid" : 100,
+      "name" : "abram",
+      "email" : "a@gmail.com",
+      "phoneno" : 1212121212
+    }, {
+      "customerid" : 200,
+      "name" : "bharat",
+      "email" : "b@gmail.com",
+      "phoneno" : 9440900123
+    }, {
+      "customerid" : 300,
+      "name" : "cathy",
+      "email" : "c@gmail.com",
+      "phoneno" : 8989898989
+    }, {
+      "customerid" : 400,
+      "name" : "karen",
+      "email" : "k@gmail.co",
+      "phoneno" : 1234567891
+    }, {
+      "customerid" : 500,
+      "name" : "Judy",
+      "email" : "j@gmail.edu",
+      "phoneno" : 9909090999
+    } ]
+  }
+}

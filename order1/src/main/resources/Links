@@ -1,0 +1,6 @@
+localhost:8000/orders
+localhost:8000/orders?customerid=
+localhost:8000/orders?ordernumber=
+localhost:8000/customers/customerid
+localhost:8000/customers/ordernumber
+localhost:8000/customers/customerid/ordernumber
